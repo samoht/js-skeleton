@@ -1,1 +1,3 @@
 PKG tyxml reactiveData js_of_ocaml
+S .
+B _build/
